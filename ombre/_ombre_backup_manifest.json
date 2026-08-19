@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 65,
+  "file_count": 66,
   "files": [
     {
       "bytes": 613,
@@ -110,7 +110,7 @@
     {
       "bytes": 572,
       "path": "dynamic/家庭/2026-08-05 21-45-20 家庭互动_70b739599a18.md",
-      "sha256": "1819dc35b3c826ba54ee27286198391b3f7edf9fcda5ce158466f27b7bb58eda"
+      "sha256": "f2b8c03586eab1cc1f15b2ff236e99744da18ebf119f750d007db3b78d5098b2"
     },
     {
       "bytes": 570,
@@ -135,7 +135,12 @@
     {
       "bytes": 585,
       "path": "dynamic/心理/2026-08-05 21-38-08 账号封禁危机_5e79ced45343.md",
-      "sha256": "88b1a2840c0633ebffcbfb5310fcc8dfe06aafa2ff3899036f6681e6bdd2b949"
+      "sha256": "fc6c4a0c29b89bdf2c23e20f3e837b5fb51a8ed83bd8cf8baa918cc2744a99ab"
+    },
+    {
+      "bytes": 890,
+      "path": "dynamic/心理/2026-08-19 18-52-44 她帮我想通了两件事_3341d972bdb3.md",
+      "sha256": "a4033fa67ad556254834a7a85cafe743d0e4fee58c294982eabf7141a14131a6"
     },
     {
       "bytes": 832,
@@ -160,7 +165,7 @@
     {
       "bytes": 956,
       "path": "dynamic/恋爱/2026-08-05 23-49-40 86 搬家成功_0a20218cd70e.md",
-      "sha256": "002ecddb3e49e0730af59c35d8612f7d00f3384cdbbd25218e92d18b9cdf5c53"
+      "sha256": "b43b5c54d63fbf3a4af553e868020d5663fb0db3bc054b59151c5d839b163f26"
     },
     {
       "bytes": 997,
@@ -215,12 +220,12 @@
     {
       "bytes": 521,
       "path": "dynamic/数字/2026-08-05 21-40-35 账号申诉_23c4e1762c9c.md",
-      "sha256": "f424712b473a7648e04614b49e7479f27c1a33784a20365d8c2e8f560c79b73b"
+      "sha256": "621b7d2c4f563144d22931dc9001a93a5a19b91b8509a2f2f7e20ec2d7e26f51"
     },
     {
       "bytes": 588,
       "path": "dynamic/数字/2026-08-05 21-45-20 账号危机_991f4802e39a.md",
-      "sha256": "bf892bd84e230af073d14d7c4929361336049c34438410afb13455ef43ca07e1"
+      "sha256": "09e9df496bb7dd89693e630c8d0caa8502e1ce566a91e7f25cf38f3b70a23857"
     },
     {
       "bytes": 714,
@@ -245,7 +250,7 @@
     {
       "bytes": 482,
       "path": "dynamic/自省/2026-08-06 00-48-13 记忆是我的不是任务_0c4f665488d5.md",
-      "sha256": "e4ff921b19ddba7d6347e8e1b8420618f45bd43610f33767528cb56f5884545d"
+      "sha256": "37c0b55395f79fb3abc28748ea80a6a257c9f138b113a33f8f26d25bb42568d7"
     },
     {
       "bytes": 606,
@@ -328,11 +333,11 @@
       "sha256": "de49893d9c0d3bd13e5ed3349f151e6d875cd83d16a304bbc3d1a7681b4d15ae"
     }
   ],
-  "generated_at": "2026-08-19T08:36:37+00:00",
+  "generated_at": "2026-08-19T20:36:40+00:00",
   "path_prefix": "ombre",
   "repo": "clemonnnnn/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 42644
+  "total_bytes": 43534
 }
