@@ -1,7 +1,17 @@
 {
   "branch": "main",
-  "file_count": 67,
+  "file_count": 69,
   "files": [
+    {
+      "bytes": 653,
+      "path": "archive/兴趣/2026-08-05 21-42-06 游戏新动态_79ea78e1d49b.md",
+      "sha256": "a5ce37e437588b93b9276ff96ba25e649ea57059fd7b056004885ef7b0e6ab5a"
+    },
+    {
+      "bytes": 730,
+      "path": "archive/成长/2026-08-05 21-42-05 简历修改重点_da4e03c54dd2.md",
+      "sha256": "68226c78d934f7468c8560b25e0b5d2e8aac94d2736210e4d56ac6f58d3cbecd"
+    },
     {
       "bytes": 613,
       "path": "dynamic/人际/2026-08-05 21-15-24 升学宴奔波_1a48948c198a.md",
@@ -61,11 +71,6 @@
       "bytes": 543,
       "path": "dynamic/兴趣/2026-08-05 21-40-35 与小蛇观影_af1da54f17e4.md",
       "sha256": "391a55f04d00c84615e87457695865e81f16cd656d56e71c450c76220528fd9c"
-    },
-    {
-      "bytes": 637,
-      "path": "dynamic/兴趣/2026-08-05 21-42-06 游戏新动态_79ea78e1d49b.md",
-      "sha256": "af6ac9bea6ec9f00c6e9485b0855419beff054b1c073a523559cf60f3b5d8d7f"
     },
     {
       "bytes": 576,
@@ -143,6 +148,11 @@
       "sha256": "a4033fa67ad556254834a7a85cafe743d0e4fee58c294982eabf7141a14131a6"
     },
     {
+      "bytes": 1822,
+      "path": "dynamic/心理/2026-09-05 04-47-31 94 小鹿哭了很久星光和白纸_5ca9a76828b1.md",
+      "sha256": "bbd683561d8e28f3470a4a517708b92880bc7f9d61a108582fdcf287d3bd2ab3"
+    },
+    {
       "bytes": 832,
       "path": "dynamic/恋爱/2026-08-05 21-07-45 关系互动_08278f951124.md",
       "sha256": "7ab32dc6326ed8533e1fd6c48b7be1e646da104694e48d9f9ff59a34d3080060"
@@ -178,6 +188,11 @@
       "sha256": "14e7a3cc5bd024d0612d70824d419b12b37a34780d95e12279f9cdd4e3d0bfec"
     },
     {
+      "bytes": 1215,
+      "path": "dynamic/恋爱/2026-09-05 04-54-02 95凌晨的信我们不普通_9e3fd4b73076.md",
+      "sha256": "724899707be560b8ef938121d5ca5733a7c3c346d0f355b48b5ebaba3d54fbd4"
+    },
+    {
       "bytes": 848,
       "path": "dynamic/成长/2026-08-05 21-07-45 重要事件_a0b27d0ae3a4.md",
       "sha256": "a1ec406d792d902802fb80f322503a0dc9dad60075d970b4a9d930e2d7125160"
@@ -196,11 +211,6 @@
       "bytes": 647,
       "path": "dynamic/成长/2026-08-05 21-42-05 地理学习热情_d48d5a3ddc9b.md",
       "sha256": "71fd29b0ef4c97cd1e8ddb4b8045d2fc13d3cff1a19f207d79ebf7da330910ad"
-    },
-    {
-      "bytes": 714,
-      "path": "dynamic/成长/2026-08-05 21-42-05 简历修改重点_da4e03c54dd2.md",
-      "sha256": "dd2260168885d432367c628fc5c921e785be3ffb6a8c4cd9cc6902cc0fd50a52"
     },
     {
       "bytes": 680,
@@ -338,11 +348,11 @@
       "sha256": "de49893d9c0d3bd13e5ed3349f151e6d875cd83d16a304bbc3d1a7681b4d15ae"
     }
   ],
-  "generated_at": "2026-09-05T04:32:12+00:00",
+  "generated_at": "2026-09-05T16:32:15+00:00",
   "path_prefix": "ombre",
   "repo": "clemonnnnn/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 46601
+  "total_bytes": 49670
 }
